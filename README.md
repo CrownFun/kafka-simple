@@ -17,3 +17,5 @@ C:\kafka_2.12-0.10.2.1>
 .\bin\windows\kafka-server-start.bat .\config\server.properties
 
 https://dev.to/thegroo/spring-kafka-producer-and-consumer-41oc
+
+https://www.javainuse.com/spring/spring-boot-apache-kafka-hello-world
